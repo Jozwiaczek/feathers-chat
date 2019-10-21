@@ -1,7 +1,7 @@
 # feathers-chat
 
-> 
-
+![
+](https://lh3.googleusercontent.com/vUqx33xkXAsivVwYvxZPLjS0dtB0nBoC44XeT91If0unusEl-LUFioPhuQK-N3VxxOvPCSb-wvWx "feathers-chat")
 ## About
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
@@ -43,3 +43,6 @@ $ feathers help                           # Show all commands
 ## Help
 
 For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMDc1MDEwMjBdfQ==
+-->
